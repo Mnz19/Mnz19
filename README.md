@@ -15,6 +15,6 @@ Olá! Eu sou o [Thiago], Estudante de Ciência da Computação apaixonado por pr
 
 Você pode me encontrar em diversas plataformas. Vamos manter contato!
 
-- [LinkedIn](www.linkedin.com/in/thiago-menezes-bcc)
+- [LinkedIn](https://www.linkedin.com/in/thiago-menezes-bcc/)
 - [Instagram](https://www.instagram.com/Menezesz_)
 
