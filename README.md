@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil! 👋
 
-Olá! Eu sou o [Thiago], Estudante de Ciência da Computação apaixonado por programação e desenvolvimento web. Este é o meu espaço no GitHub, onde compartilho projetos interessantes e códigos. 
+Olá! Eu sou o Thiago, Estudante de Ciência da Computação apaixonado por programação e desenvolvimento web. Este é o meu espaço no GitHub, onde compartilho projetos interessantes e códigos. 
 
 ## 🚀 Sobre Mim
 
