@@ -4,7 +4,7 @@ Olá! Eu sou o Thiago, Estudante de Ciência da Computação apaixonado por prog
 
 ## 🚀 Sobre Mim
 
-- 🎓 Cursando Ciência da Computação
+- 🎓 Formado em Ciência da Computação
 - 💻 Focado em Programação e Desenvolvimento Web
 - 🌱 Sempre aprendendo e buscando novos conhecimentos
 
